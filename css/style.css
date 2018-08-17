@@ -1,0 +1,38 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Ubuntu', sans-serif;
+	margin: 0 auto;
+	width: 300px;
+}
+
+.headings{
+	text-align: center;
+}
+
+form{
+	background: #f1f1f1;
+	padding: 20px 20px;
+	box-shadow: 2px 2px 5px 1px rgba(0,0,0,0.1);
+    border-radius: 5px;
+	margin: 5px 5px 90px;
+	width: 100%;
+}
+
+input{
+    width: 100%;
+    background-color: #2471A3;
+    color: #ffffff;
+    padding: 25px;
+	border: 1px solid #2471A3;
+}
+
+.output{
+	width: 100%;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 25px;
+	border: 1px solid #ffffff;
+}
